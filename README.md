@@ -1,20 +1,6 @@
-<p align="center">
-  <a href="https://anonvm.wtf/">
-    <img src="https://i.imgur.com/WIuFSG6.gif" alt="AnonVM">
-  </a>
-</p>
+## Overview of prek1cc Archive
 
-# RootSec Archive
-
-<p align="center">
-  <a href="https://t.me/realsecgroup">
-    <img width="160" height="50" src="https://i.imgur.com/N7AK7XY.png" alt="Join our Telegram group">
-  </a>
-</p>
-
-## Overview of RootSec Archive
-
-Welcome to the **RootSec Archive**, your ultimate resource for DDOS tools, scanners, botnets, exploits, and more. Our archive includes:
+Welcome to the **prek1cc Archive**, your ultimate resource for DDOS tools, scanners, botnets, exploits, and more. Our archive includes:
 
 - **Mirai Edits:** Private and Public Versions
 - **QBot Edits:** Private and Public Versions
@@ -34,14 +20,8 @@ Welcome to the **RootSec Archive**, your ultimate resource for DDOS tools, scann
 
 ## Download and Usage Instructions
 
-**Important:** Please read our [Terms of Service](https://github.com/R00tS3c/DDOS-RootSec/blob/master/ToS.md) before using any tools from the archive.
+**Important:** Please read our [Terms of Service]() before using any tools from the archive.
 
 ```
 All tutorials and usage guides are available in the "How to Use" folder or within the specific tool folders.
 ```
-
-<p align="center">
-  <a href="https://app.fossa.io/projects/git%2Bgithub.com%2FR00tS3c%2FDDOS-RootSec?ref=badge_large">
-    <img src="https://app.fossa.io/api/projects/git%2Bgithub.com%2FR00tS3c%2FDDOS-RootSec.svg?type=large" alt="FOSSA Status">
-  </a>
-</p>

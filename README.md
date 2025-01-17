@@ -20,7 +20,7 @@ Welcome to the **prek1cc Archive**, your ultimate resource for DDOS tools, scann
 
 ## Download and Usage Instructions
 
-**Important:** Please read our [Terms of Service]() before using any tools from the archive.
+**Important:** Please read our [Terms of Service](https://github.com/prek1cc/DDOS-SURCE-CODE-LEAKED/blob/main/ToS.md) before using any tools from the archive.
 
 ```
 All tutorials and usage guides are available in the "How to Use" folder or within the specific tool folders.

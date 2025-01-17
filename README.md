@@ -17,7 +17,7 @@ Welcome to the **prek1cc Archive**, your ultimate resource for DDOS tools, scann
 - **C2 (Command and Control) Sources:** Manage and Control Botnets
 - **Stresser Sources**: Tools for Stress Testing and DDOS Attacks
 - **Additional Tools and Resources**
--  **Soon more source
+- **Soon more source**
 
 ## Download and Usage Instructions
 
